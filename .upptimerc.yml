@@ -13,7 +13,8 @@ sites:
   - name: Crystal
     url: https://www.crystal.work
 
-
+assignees: # Users to assign downtime issues (optional)
+  - mteneur
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
  # cname: demo.upptime.js.org
