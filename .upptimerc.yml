@@ -28,7 +28,7 @@ status-website:
   introMessage: Ground status page
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
