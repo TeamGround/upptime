@@ -58,17 +58,17 @@
     "url": "https://www.crystal.work",
     "icon": "https://favicons.githubusercontent.com/www.crystal.work",
     "slug": "crystal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2411,
-    "timeDay": 2386,
-    "timeWeek": 2393,
-    "timeMonth": 2471,
-    "timeYear": 2411,
+    "time": 2409,
+    "timeDay": 2178,
+    "timeWeek": 2340,
+    "timeMonth": 2455,
+    "timeYear": 2409,
     "dailyMinutesDown": {}
   }
 ]
